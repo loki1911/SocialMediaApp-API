@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jR3UFD7coAsU0emObbluw1Rm4XnHPn4RfcNPmiFvNgY=",
+  "Source": "MychatAPI",
+  "BasePath": "_content/MychatAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
